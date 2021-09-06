@@ -5,7 +5,7 @@ import { HomeComponent } from './views/home/home.component';
 const routes: Routes = [
   {
     path: '', //caminho raiz default
-    component: HomeComponent,  // qual componente eu qeuro que abra o HomeComponent
+    component: HomeComponent,  // qual componente eu quero que abra o HomeComponent
   }
 ];
 
